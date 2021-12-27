@@ -1,2 +1,2 @@
-# GettingStartedWithNucleoF401RE
- Example projectcs for NucleoF401RE
+# stm32nucleof401re_00_blinkled
+ Example projectcs for NucleoF401RE: Blinking on board green led
